@@ -50,8 +50,8 @@ int main() {
     printf("\n");
   }
   printf("\nResultant matrix after multiplication:\n");
-  for (i = 0; i < 3; i++) {
-    for (j = 0; j < 3; j++) {
+  for (i = 0; i < r1; i++) {
+    for (j = 0; j < c2; j++) {
       printf("%d\t", c[i][j]);
     }
     printf("\n");
