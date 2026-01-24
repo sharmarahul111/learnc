@@ -1,3 +1,4 @@
+// Functiom: min, max, sum, input, display
 void input(int x[], int n);
 void display(int x[], int n);
 int maximum(int x[], int n);
