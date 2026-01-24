@@ -8,7 +8,7 @@
 - [Copy a string (strcpy)](./exp4/12-strcpy.c)
 - [Uppercase and Lowercase](./exp4/13-upr-lwr.c)
 - [Concatenate two strings (strcat)](./exp4/14-strcat.c)
-- [3x3 Matrix multiplication](./exp4/11-matrix-multiply.c)
+- [Any order matrix multiplication](./exp4/11-matrix-multiply.c)
 - [strcpy](./string/strcpy.c)
 - [strrev](./string/strrev.c)
 - [String palindrome](./string/palindrome.c)
@@ -17,3 +17,7 @@
 - [strlwr](./string/strlwr.c)
 - [strupr](./string/strupr.c)
 - [Check if a number is palindrome](./number-palindrome.c)
+- [Functiom: min, max, sum, input, display](./function/array.c)
+- [Function: matrix multiplication](./function/matrix-multiply.c)
+- [Function: read, add, display](./function/rad.c)
+- [String sort using functiom](./function/string-sort.c)
