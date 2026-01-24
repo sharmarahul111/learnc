@@ -1,3 +1,4 @@
+// String sort using functiom
 #include<stdio.h>
 #include<string.h>
 void input(char x[][20], int n);

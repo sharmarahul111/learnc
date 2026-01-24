@@ -1,3 +1,4 @@
+// Function: read, add, display
 #include<stdio.h>
 int read();
 void display(int);

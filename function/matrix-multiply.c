@@ -1,3 +1,4 @@
+// Function: matrix multiplication
 #include <stdio.h>
 void input(int x[][20], int r, int c);
 void display(int x[][20], int r, int c);
