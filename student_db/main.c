@@ -1,14 +1,8 @@
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
+#include "schema.h"
 #define TB_STUDENT "student.dat"
-typedef struct {
-  int id;
-  int roll;
-  char name[50];
-  char mobile[20];
-  char email[50];
-} Student;
 
 int main(){
   FILE *fp;
