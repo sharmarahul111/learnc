@@ -4,6 +4,8 @@
 #include "schema.h"
 #define TB_STUDENT "student.dat"
 
+void welcomeMessage();
+
 int main(){
   FILE *fp;
   int choice;
@@ -17,4 +19,8 @@ int main(){
   fclose(fp);
   printf("Bye!\n");
   return 0;
+}
+
+void welcomeMessage(){
+  printf("Welcome User!\n");
 }
