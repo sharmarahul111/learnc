@@ -1,4 +1,10 @@
 # Student DB
+---
+### **Abandoned!!!**<br>
+**Moved to [MiniDB](https://github.com/sharmarahul111/minidb)**
+
+with bigger scope
+___
 a static database (pre defined columns) for
 a student records management system.
 ### Tables
